@@ -1,11 +1,8 @@
 
-![markdown logo](assets/user/markdown.svg)
+![personal pic](assets/user/face.png)
 
-# Markdown Pages - a simple template for Markdown-based sites on GitHub Pages
+# Anouar BOUCHAL - a PhD Student in Information Systems
 
-_`Last Updated: 7/7/2022`_ [`edit`](https://github.com/dandalpiaz/markdown-pages/edit/master/README.md)
-
-I am a PhD Student in Information Systems
 * Learn more about my PhD journey
 * Side projects
 * More
