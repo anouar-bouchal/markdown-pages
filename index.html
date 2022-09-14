@@ -33,6 +33,17 @@
 			}
 		}
 
+		/* center and round profile picture */
+		#profile-pic {
+			display: block;
+			margin: 0 auto;
+			background-color: var(--mainColor);
+
+			height: 200px;
+			object-fit: cover;
+			border-radius: 50%;
+		}
+
 		/* increase code color contrast for a11y */
 		code {
 			color: rgb(135, 150, 160);
@@ -75,7 +86,7 @@
 <body>
 	<main role="main" class="container">
 		<a href="#" role="button" onclick="toggleLight();return false;" id="light-toggle" class="contrast">🌗 Light</a>
-		<img src="assets/user/face.png" alt="let's see">
+		<img id="profile-pic" src="assets/user/face.jpg" alt="profile picture">
 		<div id="insert"></div>
 	</main>
 
