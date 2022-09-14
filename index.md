@@ -1,5 +1,5 @@
 
-![personal pic](assets/user/face.png)
+# ![personal pic](assets/user/face.png)
 
 # Anouar BOUCHAL - a PhD Student in Information Systems
 
