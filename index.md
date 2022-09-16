@@ -1,6 +1,7 @@
-
-# ![personal pic](assets/user/face.png)
-
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
+  
 # Anouar BOUCHAL - a PhD Student in Information Systems
 
 * Learn more about my PhD journey
